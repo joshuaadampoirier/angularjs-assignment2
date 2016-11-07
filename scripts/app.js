@@ -52,6 +52,10 @@
       {
         name: "Chocolate",
         quantity: "5"
+      },
+      {
+        name: "Pepto Bismol",
+        quantity: "2"
       }
     ];
     var boughtItems = [];
